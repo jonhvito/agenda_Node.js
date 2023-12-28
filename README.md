@@ -1,8 +1,13 @@
-# Projeto de Agenda em JavaScript e Node.js
+# Projeto de Agenda em JavaScript - Node.js, (Express e MongoDB)
 
 ## Descrição
 
 Este é um projeto de agenda desenvolvido em JavaScript e Node.js. Ele utiliza o padrão MVC (Model-View-Controller) e várias outras tecnologias para fornecer uma experiência de usuário eficiente e agradável.
+
+
+<p align="center">
+  <img alt="projeto Habits" src="./frontend/assets/images/Design.png" width="100%">
+</p>
 
 ## Tecnologias Utilizadas
 
@@ -19,7 +24,7 @@ Este é um projeto de agenda desenvolvido em JavaScript e Node.js. Ele utiliza o
 
 ## Instalação
 
-1. Clone o repositório para a sua máquina local usando `https://github.com/<seu-nome-de-usuario>/projeto-agenda.git`.
+1. Clone o repositório para a sua máquina local usando `https://github.com/jonhvito/agenda_Node.js`.
 2. Navegue até o diretório do projeto e execute `npm i` para instalar as dependências.
 3. Crie uma conta no <a href="https://account.mongodb.com/account/login">MongoDB</a> e obtenha sua chave de acesso.
 4. Crie um arquivo `.env` na raiz do projeto e insira as variáveis de ambiente necessárias.
@@ -36,3 +41,7 @@ Pull requests são bem-vindos. Para mudanças importantes, abra um problema prim
 ## Licença
 
 MIT
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
